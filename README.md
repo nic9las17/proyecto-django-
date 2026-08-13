@@ -9,3 +9,4 @@ git add .
 
 git comit -m "readme modificado, nombre"
 git push origin main 
+pip list
